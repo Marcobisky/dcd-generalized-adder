@@ -1,0 +1,21 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/behavior/DECODER_4.vhdl,1736439188,vhdl,Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/behavior/EEPROM.vhdl,,,decoder_4,,,,,,,,
+Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/behavior/DEMUX_GATE_1.vhdl,1736439206,vhdl,Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/structural/main.vhdl,,,demux_gate_1,,,,,,,,
+Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/behavior/DIG_Counter.vhdl,1736433160,vhdl,Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/behavior/RhCount.vhdl;Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/structural/main.vhdl,,,dig_counter,,,,,,,,
+Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/behavior/Dff.vhdl,1736493427,vhdl,Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/behavior/EEPROM.vhdl;Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/behavior/buffer4bit.vhdl;Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/behavior/buffer8bit.vhdl,,,dff,,,,,,,,
+Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/behavior/EEPROM.vhdl,1736433194,vhdl,Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/structural/main.vhdl,,,eeprom,,,,,,,,
+Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/behavior/MUX_GATE_BUS_1.vhdl,1736433327,vhdl,Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/behavior/EEPROM.vhdl;Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/behavior/buffer4bit.vhdl;Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/behavior/buffer8bit.vhdl;Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/structural/main.vhdl,,,mux_gate_bus_1,,,,,,,,
+Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/behavior/RhCount.vhdl,1736433334,vhdl,Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/structural/main.vhdl,,,rhcount,,,,,,,,
+Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/behavior/adder2bit.vhdl,1736478711,vhdl,Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/behavior/adder4bit.vhdl,,,adder2bit,,,,,,,,
+Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/behavior/adder4bit.vhdl,1736432988,vhdl,Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/structural/main.vhdl,,,adder4bit,,,,,,,,
+Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/behavior/buffer4bit.vhdl,1736433019,vhdl,Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/structural/main.vhdl,,,buffer4bit,,,,,,,,
+Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/behavior/buffer8bit.vhdl,1736433029,vhdl,Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/structural/main.vhdl,,,buffer8bit,,,,,,,,
+Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/behavior/isMax.vhdl,1736433233,vhdl,Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/structural/main.vhdl,,,ismax,,,,,,,,
+Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/structural/main.vhdl,1736433367,vhdl,,,,main,,,,,,,,
+Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/testbench/EEPROM_tb.vhdl,1736007580,vhdl,,,,eeprom_tb,,,,,,,,
+Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/testbench/adder2bit_tb.vhdl,1736422610,vhdl,,,,adder2bit_tb,,,,,,,,
+Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/testbench/adder4bit_tb.vhdl,1736422884,vhdl,,,,adder4bit_tb,,,,,,,,
+Z:/LocalFiles/Labs/DCDLabs/Coursework2/vhdl/testbench/main_tb.vhdl,1736497223,vhdl,,,,main_tb,,,,,,,,

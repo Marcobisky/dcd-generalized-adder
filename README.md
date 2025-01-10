@@ -73,6 +73,8 @@ Please download Digital software [here](https://github.com/hneemann/Digital) and
 ## Folder Details
 
 ```
+├── dcd-generalized-adder/    # Project structure that can be imported into Vivado
+│   └── ...
 ├── digitalSim/               # Interactive simulation source file in Digital
 │   ├── adder2bitfull.dig
 │   ├── adder4bitfull.dig
@@ -100,6 +102,10 @@ Please download Digital software [here](https://github.com/hneemann/Digital) and
 ├── README.md
 └── report.pdf                # Detailed report in PDF
 ```
+
+### **`dcd-generalized-adder` Folder**
+
+- You can use Vivado to directly open this folder and simulate the project. Omit this if you are using `ghdl` toolchain.
 
 ### **`Behavior` Folder**
 - Contains mainly behavioral descriptions of each block.

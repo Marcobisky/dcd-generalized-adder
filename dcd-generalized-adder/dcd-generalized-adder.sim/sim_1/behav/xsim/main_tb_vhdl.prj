@@ -1,0 +1,19 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../vhdl/behavior/DECODER_4.vhdl" \
+"../../../../../vhdl/behavior/DEMUX_GATE_1.vhdl" \
+"../../../../../vhdl/behavior/DIG_Counter.vhdl" \
+"../../../../../vhdl/behavior/Dff.vhdl" \
+"../../../../../vhdl/behavior/MUX_GATE_BUS_1.vhdl" \
+"../../../../../vhdl/behavior/EEPROM.vhdl" \
+"../../../../../vhdl/behavior/RhCount.vhdl" \
+"../../../../../vhdl/behavior/adder2bit.vhdl" \
+"../../../../../vhdl/behavior/adder4bit.vhdl" \
+"../../../../../vhdl/behavior/buffer4bit.vhdl" \
+"../../../../../vhdl/behavior/buffer8bit.vhdl" \
+"../../../../../vhdl/behavior/isMax.vhdl" \
+"../../../../../vhdl/structural/main.vhdl" \
+"../../../../../vhdl/testbench/main_tb.vhdl" \
+
+# Do not sort compile order
+nosort
