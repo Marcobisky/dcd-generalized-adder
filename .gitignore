@@ -1,7 +1,6 @@
-Report/
 .DS_Store
 
-/Report/
+/Report/*
 !/Report/*.tex
 !/Report/*.bib
 !/Report/*.png
