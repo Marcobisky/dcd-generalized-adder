@@ -1,2 +1,7 @@
 Report/
 .DS_Store
+
+/Report/
+!/Report/*.tex
+!/Report/*.bib
+!/Report/*.png
